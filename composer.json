@@ -1,0 +1,14 @@
+{
+    "name": "stephenm/metaphor",
+    "description": "the best package ever",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stephen Munabo",
+            "email": "stephen.munabo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
